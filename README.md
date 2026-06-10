@@ -16,16 +16,39 @@ Hello there! I'm **Saalim Malik** — a passionate **Senior Mobile Application D
 
 ---
 
-## My Profile Overview
+## 🚀 About Me
 
 * 🔭 Currently working on: **Flutter Applications**, **Jetpack Compose Apps**, **Scalable Mobile Solutions**
 * 🌱 Learning & Exploring: **Advanced System Design**, **DSA**, **Clean Architecture**
 * 👯 Open to collaborate on: **Flutter**, **Kotlin**, **Android**, **Open Source Projects**
-* 🤔 Looking for help with: Enterprise Architecture & Large Scale Mobile Systems
 * 💬 Ask me about: **Flutter**, **Dart**, **Kotlin**, **Firebase**, **MVVM**, **Jetpack Compose**
-* 📫 Reach me: Email or LinkedIn
 * ⚡ Fun fact: I love transforming ideas into production-ready mobile applications 🚀
-* 😄 Currently: Senior Mobile Developer with **4+ Years Professional Experience**
+* 😄 Senior Mobile Developer with **4+ Years of Professional Experience**
+
+---
+
+## 🏆 Play Store Achievements
+
+📱 **4 Published Applications**
+
+📈 **20K+ Downloads**
+
+⭐ **FinTech, Hospitality & Transportation Domains**
+
+🚀 **End-to-End Development & Deployment**
+
+---
+
+## 📱 Published Applications
+
+| Application                | Domain       | Downloads | Play Store                                                                                       |
+| -------------------------- | ------------ | --------- | ------------------------------------------------------------------------------------------------ |
+| 🚀 **PayNuke**             | FinTech      | 10K+      | [View App](https://play.google.com/store/search?q=paynuke+app&c=apps&hl=en_IN)                   |
+| 🏨 **C Care**              | Hospitality  | 10K+      | [View App](https://play.google.com/store/apps/details?id=com.ess.ccare&hl=en_IN)                 |
+| 🚖 **Super Travel User**   | Taxi Service | 100+      | [View App](https://play.google.com/store/apps/details?id=com.codeflies.supertravelUser&hl=en_IN) |
+| 🚕 **Super Travel Driver** | Taxi Service | 100+      | [View App](https://play.google.com/store/apps/details?id=com.codingstuff.stdriver&hl=en_IN)      |
+
+📈 **20K+ Total Downloads Across Published Applications**
 
 ---
 
@@ -73,48 +96,57 @@ Hello there! I'm **Saalim Malik** — a passionate **Senior Mobile Application D
 ![Room](https://img.shields.io/badge/Room_Database-4285F4?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 
-**Core Specializations:** Flutter • Kotlin • Jetpack Compose • Firebase • MVVM • Clean Architecture • REST APIs • Room Database • Google Maps • WebRTC • Payment Gateway Integration
+### 🎯 Core Specializations
+
+**Flutter • Kotlin • Jetpack Compose • Firebase • MVVM • Clean Architecture • REST APIs • Room Database • Google Maps • WebRTC • Payment Gateway Integration**
 
 ---
 
-## 🚀 Key Highlights From Experience
+## 🚀 Key Highlights
 
-* Developed and maintained multiple production-ready Android & Flutter applications
-* Built applications using **Jetpack Compose**, **Flutter**, **Firebase**, and **REST APIs**
-* Strong expertise in **MVVM Architecture**, **Dependency Injection**, and **Clean Architecture**
-* Integrated payment gateways, real-time tracking, push notifications, and Google Maps
-* Extensive experience in debugging, optimization, and performance improvements
-* Delivered end-to-end mobile applications from development to Play Store deployment
+✅ Developed and maintained multiple production-ready Android & Flutter applications
+
+✅ Built scalable applications using Flutter, Jetpack Compose, Firebase, and REST APIs
+
+✅ Strong expertise in MVVM Architecture, Dependency Injection, and Clean Architecture
+
+✅ Integrated Payment Gateways, Real-Time Tracking, Push Notifications, and Google Maps
+
+✅ Extensive experience in debugging, optimization, and performance improvements
+
+✅ Delivered end-to-end mobile applications from development to Play Store deployment
 
 ---
 
 ## 🛠️ Featured Projects
 
-### 🚗 SuperTravel
+### 🚀 PayNuke
 
-Ride Booking & Live Tracking Platform
+**FinTech Application**
+🔗 https://play.google.com/store/search?q=paynuke+app&c=apps&hl=en_IN
 
-Flutter + Firebase + Google Maps + Real-Time Tracking
+### 🏨 C Care
 
----
+**Hospitality Application**
+🔗 https://play.google.com/store/apps/details?id=com.ess.ccare&hl=en_IN
+
+### 🚖 Super Travel User
+
+**Taxi Booking Application**
+🔗 https://play.google.com/store/apps/details?id=com.codeflies.supertravelUser&hl=en_IN
+
+### 🚕 Super Travel Driver
+
+**Driver Application**
+🔗 https://play.google.com/store/apps/details?id=com.codingstuff.stdriver&hl=en_IN
 
 ### 🍔 FoodCourt
 
-Modern Food Ordering Application
-
-Jetpack Compose + MVVM + REST APIs
-
----
-
-### 🛒 E-Commerce Application
-
-Flutter + Firebase + Payment Gateway
-
----
+**Modern Food Ordering Application**
 
 ### 📚 E-Learning Platform
 
-Video Streaming + PDF Viewer + Offline Support
+**Video Streaming + PDF Viewer + Offline Support**
 
 ---
 
@@ -156,8 +188,24 @@ Video Streaming + PDF Viewer + Offline Support
 
 ---
 
-Thanks for stopping by! 🌟
+## 💼 Open Opportunities
 
-Open to **Android Developer**, **Flutter Developer**, **Mobile Application Developer**, and **Senior Software Engineer** opportunities.
+📱 Android Developer Roles
 
-### 🚀 Let's Build Something Amazing Together!
+🚀 Flutter Developer Roles
+
+💻 Mobile Application Developer Roles
+
+🏢 Senior Software Engineer Opportunities
+
+🤝 Freelance & Contract Projects
+
+---
+
+## 🌟 Let's Build Something Amazing Together!
+
+Thank you for visiting my profile.
+
+If you're looking for a developer who can transform ideas into high-quality, scalable mobile applications, feel free to connect with me.
+
+⭐ Don't forget to follow and explore my repositories!
