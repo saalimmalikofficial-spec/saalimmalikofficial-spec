@@ -1,312 +1,140 @@
-# ✨ Welcome to my GitHub! 🚀📱
+<div align="center">
 
-Hello there! I'm **Saalim Malik** — a passionate **Senior Mobile Application Developer** from India 🇮🇳
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c71f0&height=200&section=header&text=Saalim%20Malik&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Senior%20Mobile%20Developer&descSize=20&descAlignY=55&descColor=c8c4ff" width="100%"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Flutter+Developer;Android+Developer;Kotlin+Expert;Jetpack+Compose+Developer;Firebase+Specialist;4%2B+Years+of+Professional+Experience" />
-</p>
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c71f0?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saalim-malik-app/)
+[![Gmail](https://img.shields.io/badge/Email-Hire%20Me-1db88a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saalimmalik.official@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-f0a040?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saalimmalikofficial-spec)
 
-# 👯 Let's Connect
+<br/>
 
-<p align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=saalimmalikofficial-spec&color=7c71f0&style=for-the-badge&label=PROFILE+VIEWS)
 
-<a href="https://github.com/saalimmalikofficial-spec">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://linkedin.com/in/saalim-malik">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
-</a>
-
-</p>
+</div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-* 🔭 Currently working on **Flutter Applications**, **Jetpack Compose Apps**, and **Scalable Mobile Solutions**
-* 🌱 Learning **Advanced System Design**, **DSA**, and **Clean Architecture**
-* 👯 Open to collaborate on **Flutter**, **Android**, **Kotlin**, and **Open Source Projects**
-* 💬 Ask me about **Flutter**, **Dart**, **Kotlin**, **Firebase**, **MVVM**, and **Jetpack Compose**
-* ⚡ I love transforming ideas into production-ready mobile applications
-* 😄 Senior Mobile Developer with **4+ Years of Professional Experience**
-* 💼 Built and maintained production applications with **70K+ combined downloads** across GPS Tracking, Social Media, Chat, FinTech, Hospitality, and Transportation domains
-
----
-
-# 🏆 Play Store Achievements
-
-📱 **8+ Published Applications**
-
-📈 **70K+ Downloads**
-
-⭐ **GPS Tracking, Social Platform, Chat, FinTech, Hospitality & Transportation Domains**
-
-🚀 **End-to-End Development & Deployment**
-
-🌍 **Cross-Platform Flutter & Native Android Development**
+```
+💼  Senior Mobile Developer — Flutter & Android
+📍  Delhi, India
+📱  4+ years building production-grade mobile apps
+⬇️  70,000+ total downloads across published apps
+🏗️  8+ live apps on Google Play Store
+🟢  Open to Remote & Freelance opportunities
+```
 
 ---
 
-# 📱 Published Applications
+## 📊 Impact at a Glance
 
-| Application                     | Technology | Domain                    | Downloads |
-| ------------------------------- | ---------- | ------------------------- | --------- |
-| 🚀 Bolt - Advanced GPS Tracking | Flutter    | GPS Tracking              | 50K+      |
-| 🔐 LockSee                      | Flutter    | Chat & Security           | 100+      |
-| 🚗 DriveLabs                    | Flutter    | Driving Learning Platform | 100+      |
-| 🌎 Global Clap                  | Flutter    | Social Networking         | 500+      |
-| 💳 PayNuke                      | Android    | FinTech                   | 10K+      |
-| 🏨 C Care                       | Android    | Hospitality               | 10K+      |
-| 🚖 Super Travel User            | Android    | Taxi Service              | 100+      |
-| 🚕 Super Travel Driver          | Android    | Taxi Service              | 100+      |
+<div align="center">
 
-📈 **70K+ Total Downloads Across Published Applications**
+| 📥 Total Downloads | 📱 Live Apps | 🗓️ Years Building |
+|:-:|:-:|:-:|
+| **70,000+** | **8+** | **4+** |
+
+</div>
 
 ---
 
-# 🚀 Featured Applications
+## 📱 Featured Apps
 
-## 🚀 Bolt - Advanced GPS Tracking
-
-🔹 Real-Time Vehicle Tracking
-
-🔹 Live GPS Monitoring
-
-🔹 Route Playback & History
-
-🔹 Push Notifications
-
-🔹 Google Maps Integration
-
-🔹 50K+ Downloads
-
-🔗 https://play.google.com/store/search?q=Bolt-%20Advanced%20GPS%20Tracking&c=apps
+| App | Tech | Downloads / Category |
+|-----|------|----------------------|
+| 🗺️ **[Bolt GPS Tracking](https://play.google.com/store/search?q=Bolt-+Advanced+GPS+Tracking&c=apps)** | Flutter | ⬇️ 50K+ downloads |
+| 💳 **[PayNuke](https://play.google.com/store/apps/details?id=com.gsk.user)** | Android Native | ⬇️ 10K+ downloads |
+| 🏢 **[C Care](https://play.google.com/store/apps/details?id=com.ess.ccare)** | Android Native | ⬇️ 10K+ downloads |
+| 🚗 **[DriveLabs](https://play.google.com/store/apps/details?id=com.bettlebyte.drivelabs)** | Flutter | 📚 Education app |
+| 👥 **[Global Clap](https://play.google.com/store/apps/details?id=app.gc_globalclap)** | Flutter | 🌐 Social networking |
+| 🔒 **[LockSee](https://play.google.com/store/apps/details?id=com.locksee.locksee)** | Flutter | 🔐 E2E encrypted chat |
 
 ---
 
-## 🔐 LockSee
+## 🛠️ Tech Stack
 
-🔹 Cross Platform Flutter Application
+<div align="center">
 
-🔹 Secure Chat Features
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20APIs-1db88a?style=for-the-badge&logo=fastapi&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM%20%2F%20BLoC-7c71f0?style=for-the-badge&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Room](https://img.shields.io/badge/Room%20%2F%20SQLite-f0a040?style=for-the-badge&logo=sqlite&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt%20%2F%20Dagger-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Payment Gateways](https://img.shields.io/badge/Payment%20Gateways-1db88a?style=for-the-badge&logo=stripe&logoColor=white)
 
-🔹 Authentication & User Management
-
-🔹 Android & iOS Support
-
-🔹 Real-Time Communication
-
-🔗 https://play.google.com/store/apps/details?id=com.locksee.locksee
-
----
-
-## 🚗 DriveLabs
-
-🔹 Flutter Cross Platform Application
-
-🔹 Driving Education Platform
-
-🔹 Learning & Assessment Modules
-
-🔹 Clean UI/UX Experience
-
-🔗 https://play.google.com/store/apps/details?id=com.bettlebyte.drivelabs
+</div>
 
 ---
 
-## 🌎 Global Clap
+## 🎯 Key Expertise
 
-🔹 Social Networking Platform
+<table>
+<tr>
+<td width="50%">
 
-🔹 User Interaction Features
+### 📡 Real-time Systems
+GPS tracking, WebRTC video/audio, live booking engines, route playback & history
 
-🔹 Community Engagement
+</td>
+<td width="50%">
 
-🔹 Flutter Application
+### ⚡ Performance
+UI profiling, memory leak tracking, efficient state management, Play Store deployment
 
-🔹 500+ Downloads
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-🔗 https://play.google.com/store/apps/details?id=app.gc_globalclap
+### 💰 FinTech & Payments
+Secure multi-layer wallets, payment gateway integration, transaction management
 
----
+</td>
+<td width="50%">
 
-## 💳 PayNuke
+### 🏗️ Architecture
+Clean Architecture, MVVM, BLoC, Riverpod, scalable cross-platform frameworks
 
-🔹 FinTech Application
-
-🔹 Secure Transactions
-
-🔹 User Wallet Management
-
----
-
-## 🏨 C Care
-
-🔹 Hospitality Management Application
-
-🔹 Customer Support Features
-
-🔹 Service Management
-
----
-
-## 🚖 Super Travel
-
-🔹 Ride Booking Platform
-
-🔹 Driver & User Applications
-
-🔹 Live Tracking
-
-🔹 Booking Management
+</td>
+</tr>
+</table>
 
 ---
 
-## 🍔 FoodCourt
+## 📈 GitHub Stats
 
-🔹 Modern Food Ordering Application
+<div align="center">
 
-🔹 Jetpack Compose UI
+![Saalim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saalimmalikofficial-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0f&title_color=7c71f0&icon_color=1db88a&text_color=f0eff5)
 
-🔹 MVVM Architecture
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saalimmalikofficial-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0f&title_color=7c71f0&text_color=f0eff5)
 
----
-
-## 📚 E-Learning Platform
-
-🔹 Video Streaming
-
-🔹 PDF Viewer
-
-🔹 Offline Support
-
-🔹 User Progress Tracking
+</div>
 
 ---
 
-# 💻 Tech Stack & Skills
+## 🟢 Open to Opportunities
 
-## 📱 Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge\&logo=android\&logoColor=white)
-
-## 🎨 Android Jetpack
-
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge)
-![Navigation](https://img.shields.io/badge/Navigation_Component-34A853?style=for-the-badge)
-![ViewModel](https://img.shields.io/badge/ViewModel-FF9800?style=for-the-badge)
-![LiveData](https://img.shields.io/badge/LiveData-E91E63?style=for-the-badge)
-![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge)
-
-## 🏗️ Architecture
-
-![MVVM](https://img.shields.io/badge/MVVM-000000?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1976D2?style=for-the-badge)
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-009688?style=for-the-badge)
-![Hilt](https://img.shields.io/badge/Hilt-3DDC84?style=for-the-badge)
-
-## 🔥 Firebase
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge)
-![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-DD2C00?style=for-the-badge)
-![FCM](https://img.shields.io/badge/Push_Notifications-FF6F00?style=for-the-badge)
-
-## 🌐 Networking & APIs
-
-![REST API](https://img.shields.io/badge/REST_API-2196F3?style=for-the-badge)
-![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=for-the-badge)
-![OkHttp](https://img.shields.io/badge/OkHttp-4CAF50?style=for-the-badge)
-
-## 💾 Database
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite)
-![Room](https://img.shields.io/badge/Room_Database-4285F4?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+> **Senior Android Developer · Senior Flutter Developer · Remote & Freelance**
+>
+> 📩 Reach me at [saalimmalik.official@gmail.com](mailto:saalimmalik.official@gmail.com)
+> 🔗 Connect on [LinkedIn](https://linkedin.com/in/saalim-malik-app/)
 
 ---
 
-# 🎯 Core Specializations
+<div align="center">
 
-**Flutter • Dart • Android • Kotlin • Jetpack Compose • Firebase • MVVM • Clean Architecture • REST APIs • Room Database • Google Maps • WebRTC • Payment Gateway Integration • GPS Tracking • Real-Time Applications**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c71f0&height=100&section=footer" width="100%"/>
 
----
-
-# 🏆 Professional Strengths
-
-✅ Flutter Development
-
-✅ Android Development
-
-✅ Kotlin Development
-
-✅ Jetpack Compose
-
-✅ Firebase Ecosystem
-
-✅ REST API Integration
-
-✅ MVVM Architecture
-
-✅ Clean Architecture
-
-✅ Performance Optimization
-
-✅ Play Store Deployment
-
-✅ Third Party SDK Integration
-
-✅ Real-Time Applications
-
-✅ GPS Tracking Applications
-
-✅ Social Networking Applications
-
-✅ FinTech Applications
-
----
-
-# 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saalimmalikofficial-spec\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saalimmalikofficial-spec\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=saalimmalikofficial-spec\&theme=tokyonight)
-
----
-
-# 💼 Open Opportunities
-
-📱 Senior Android Developer
-
-🚀 Senior Flutter Developer
-
-💻 Mobile Application Developer
-
-🏢 Software Engineer
-
-🤝 Freelance Projects
-
-🌍 Remote Opportunities
-
----
-
-# 🌟 Let's Build Something Amazing Together!
-
-Thank you for visiting my profile.
-
-If you're looking for a developer who can transform ideas into high-quality, scalable mobile applications, feel free to connect with me.
-
-⭐ Don't forget to follow and explore my repositories!
+</div>
