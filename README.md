@@ -14,45 +14,158 @@
 
 </div>
 
----
+<br/>
 
 ## 🚀 About Me
 
-```
-💼  Senior Mobile Developer — Flutter & Android
-📍  Delhi, India
-📱  4+ years building production-grade mobile apps
-⬇️  70,000+ total downloads across published apps
-🏗️  8+ live apps on Google Play Store
-🟢  Open to Remote & Freelance opportunities
+```yaml
+Role:        Senior Mobile Developer — Flutter & Android
+Location:    Delhi, India
+Experience:  5+ years building production-grade mobile apps
+Downloads:   100,000+ across published apps
+Live Apps:   10+ on Google Play Store
+Status:      🟢 Open to Remote & Freelance opportunities
 ```
 
----
+<br/>
 
 ## 📊 Impact at a Glance
 
 <div align="center">
 
-| 📥 Total Downloads | 📱 Live Apps | 🗓️ Years Building |
-|:-:|:-:|:-:|
-| **70,000+** | **8+** | **4+** |
+<table>
+<tr>
+<td align="center" width="160">
+<h2>100,000+</h2>
+📥 Total Downloads
+</td>
+<td align="center" width="160">
+<h2>10+</h2>
+📱 Live Apps
+</td>
+<td align="center" width="160">
+<h2>5+</h2>
+🗓️ Years Building
+</td>
+<td align="center" width="160">
+<h2>9</h2>
+🏢 Domains Covered
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
 ## 📱 Featured Apps
 
-| App | Tech | Downloads / Category |
-|-----|------|----------------------|
-| 🗺️ **[Bolt GPS Tracking](https://play.google.com/store/search?q=Bolt-+Advanced+GPS+Tracking&c=apps)** | Flutter | ⬇️ 50K+ downloads |
-| 💳 **[PayNuke](https://play.google.com/store/apps/details?id=com.gsk.user)** | Android Native | ⬇️ 10K+ downloads |
-| 🏢 **[C Care](https://play.google.com/store/apps/details?id=com.ess.ccare)** | Android Native | ⬇️ 10K+ downloads |
-| 🚗 **[DriveLabs](https://play.google.com/store/apps/details?id=com.bettlebyte.drivelabs)** | Flutter | 📚 Education app |
-| 👥 **[Global Clap](https://play.google.com/store/apps/details?id=app.gc_globalclap)** | Flutter | 🌐 Social networking |
-| 🔒 **[LockSee](https://play.google.com/store/apps/details?id=com.locksee.locksee)** | Flutter | 🔐 E2E encrypted chat |
+<table>
+<tr>
+<th align="left">App</th>
+<th align="left">Category</th>
+<th align="left">Tech Stack</th>
+<th align="center">Scale</th>
+</tr>
 
----
+<tr>
+<td><b>Bolt</b></td>
+<td>Real-time Vehicle Tracking</td>
+<td>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
+</td>
+<td align="center">🔥 50K+</td>
+</tr>
+
+<tr>
+<td><b>PayNuke</b></td>
+<td>Payments & FinTech</td>
+<td>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
+<img src="https://img.shields.io/badge/BBPS-1db88a?style=flat-square&logoColor=white"/>
+</td>
+<td align="center">10K+</td>
+</tr>
+
+<tr>
+<td><b>Cudel</b></td>
+<td>Beauty Services Booking</td>
+<td>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</td>
+<td align="center">10K+</td>
+</tr>
+
+<tr>
+<td><b>C Care</b></td>
+<td>Healthcare</td>
+<td>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</td>
+<td align="center">10K+</td>
+</tr>
+
+<tr>
+<td><b>Medzi</b></td>
+<td>Ambulance & Hospital Management</td>
+<td>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase_Realtime_DB-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+</td>
+<td align="center">New</td>
+</tr>
+
+<tr>
+<td><b>Drive Labs</b></td>
+<td>Driving Education / Instructor</td>
+<td>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/ICICI_Gateway-B02A30?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zoho-C8202F?style=flat-square&logo=zoho&logoColor=white"/>
+</td>
+<td align="center">New</td>
+</tr>
+
+<tr>
+<td><b>CharteredHelp</b></td>
+<td>Compliance & Business Filing</td>
+<td>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</td>
+<td align="center">New</td>
+</tr>
+
+<tr>
+<td><b>Super Travel</b></td>
+<td>Taxi — Driver & Customer Apps</td>
+<td>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+</td>
+<td align="center">—</td>
+</tr>
+
+<tr>
+<td><b>Locksee</b></td>
+<td>Social Chat</td>
+<td>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agora_SDK-1db88a?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSocket-333333?style=flat-square&logoColor=white"/>
+</td>
+<td align="center">—</td>
+</tr>
+
+</table>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -70,24 +183,26 @@
 ![Room](https://img.shields.io/badge/Room%20%2F%20SQLite-f0a040?style=for-the-badge&logo=sqlite&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Agora](https://img.shields.io/badge/Agora%20SDK-1db88a?style=for-the-badge&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt%20%2F%20Dagger-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![Payment Gateways](https://img.shields.io/badge/Payment%20Gateways-1db88a?style=for-the-badge&logo=stripe&logoColor=white)
+![Scanner](https://img.shields.io/badge/QR%20%2F%20Barcode%20%2F%20RFID%20%2F%20NFC%20%2F%20OCR-f0a040?style=for-the-badge&logoColor=white)
 
 </div>
 
----
+<br/>
 
 ## 🎯 Key Expertise
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📡 Real-time Systems
-GPS tracking, WebRTC video/audio, live booking engines, route playback & history
+GPS tracking, WebRTC/Agora video-audio calling, live booking engines, route playback & history
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚡ Performance
 UI profiling, memory leak tracking, efficient state management, Play Store deployment
@@ -95,43 +210,64 @@ UI profiling, memory leak tracking, efficient state management, Play Store deplo
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💰 FinTech & Payments
-Secure multi-layer wallets, payment gateway integration, transaction management
+Razorpay, PayU, ICICI, BPCL SDK, BBPS integrations, secure multi-layer wallets, transaction management
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏗️ Architecture
 Clean Architecture, MVVM, BLoC, Riverpod, scalable cross-platform frameworks
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Healthcare & Hospital Systems
+Ambulance booking, live bed/doctor availability, patient/admin/super-admin role-based apps
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Scanner & Identification Tech
+QR Code, Barcode, RFID, NFC, OCR, and industrial scanning device integration
+
+</td>
+</tr>
 </table>
 
----
+<br/>
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-![Saalim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saalimmalikofficial-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0f&title_color=7c71f0&icon_color=1db88a&text_color=f0eff5)
+<img src="https://github-readme-stats.vercel.app/api?username=saalimmalikofficial-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0f&title_color=7c71f0&icon_color=1db88a&text_color=f0eff5" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saalimmalikofficial-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0f&title_color=7c71f0&text_color=f0eff5" width="35%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saalimmalikofficial-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0f&title_color=7c71f0&text_color=f0eff5)
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saalimmalikofficial-spec&theme=tokyonight&hide_border=true&background=0d0d0f&ring=7c71f0&fire=1db88a&currStreakLabel=7c71f0" width="49%"/>
 
 </div>
 
----
+<br/>
 
 ## 🟢 Open to Opportunities
 
-> **Senior Android Developer · Senior Flutter Developer · Remote & Freelance**
->
-> 📩 Reach me at [saalimmalik.official@gmail.com](mailto:saalimmalik.official@gmail.com)
-> 🔗 Connect on [LinkedIn](https://linkedin.com/in/saalim-malik-app/)
+<div align="center">
 
----
+**Senior Android Developer · Senior Flutter Developer · Remote & Freelance**
+
+[![Email](https://img.shields.io/badge/Email-saalimmalik.official%40gmail.com-1db88a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saalimmalik.official@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c71f0?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saalim-malik-app/)
+
+</div>
+
+<br/>
 
 <div align="center">
 
